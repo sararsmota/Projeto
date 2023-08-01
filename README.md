@@ -4,9 +4,9 @@
 
 <p align='center'> 
   <a href='#-tecnologias'>Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href='#-prjeto'>Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href='#-layout'>Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-        <a href='#-memo-linceça'>Licença</a>
+  <a href='#-prjeto'>Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href='#-layout'>Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href='#-memo-linceça'>Licença</a>
 </p>
 
 <p align='center'>
