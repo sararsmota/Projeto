@@ -17,9 +17,6 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar-light.jpg")
   } else {
     //se tiver sem light mode, manter a imagem
-    img.setAttribute(
-      "src",
-      ".https://avatars.githubusercontent.com/u/80297582?v=4"
-    )
+    img.setAttribute("src", "../assets/avatar2.png")
   }
 }
